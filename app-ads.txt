@@ -1,5 +1,2 @@
-# app-ads.txt de JS GAMES (exigé par AdMob)
-# À publier à la racine du site déclaré comme "site du développeur" dans Google Play.
-# Remplacer pub-0000000000000000 par l'ID éditeur AdMob (AdMob > Paramètres > Infos du compte),
-# puis retirer le "# " au début de la ligne ci-dessous.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# app-ads.txt de JS GAMES (exigé par AdMob) — site du développeur : https://scuillerjack-oss.github.io/Jsgames/
+google.com, pub-5515128460569370, DIRECT, f08c47fec0942fa0
